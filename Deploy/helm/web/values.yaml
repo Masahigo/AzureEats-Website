@@ -2,8 +2,8 @@ replicaCount: 1
 applicationName: tailwindtraders
 
 image:
-  repository: tailwindtradersacr.azurecr.io/web.api
-  tag: prod
+  repository: kserjds2323.azurecr.io/tailwindtraders
+  tag: v1
   pullPolicy: Always
 
 service:
